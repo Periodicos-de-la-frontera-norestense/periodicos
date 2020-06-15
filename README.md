@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://rlozano1994.github.io/periodicos/
+- Leaflet Map https://periodicos-de-la-frontera-norestense.github.io/periodicos/
 - Google Sheets https://docs.google.com/spreadsheets/d/1ZJZjTkEmbSIUC1tR9pKR4lUtg4KpPHUKLGBqHqGRtDE/edit#gid=0
 
 ## Create your own
